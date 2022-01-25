@@ -1,3 +1,9 @@
+# Who am I
+
+Hi, I'm a fullstack web and desktop application developpeur (actually learning mobile applications).
+
+# Technical skills
+
 ### Languages
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -47,7 +53,7 @@
 [3DSmax]
 [Fusion360]
 
-### Actually learning
+# I'm currently learning
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
@@ -55,7 +61,7 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 
-### Github Stats
+# Github Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryosama&layout=compact)
 
